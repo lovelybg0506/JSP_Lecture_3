@@ -10,6 +10,6 @@
     <jsp:include page="09_header.jsp"/>
     서브 화면 입니다.<br>
     <a href="11_main.jsp">메인페이지로 이동</a>
-    <jsp:include page=<"10_footer.jsp"/>
+    <jsp:include page="10_footer.jsp"/>
   </body>
 </html>
